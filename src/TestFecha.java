@@ -1,4 +1,4 @@
-import com.slcomputacion.clases.Fecha;
+import com.slcomputacion.fechas.Fecha;
 
 public class TestFecha {
     public static void main(String[] args) {
