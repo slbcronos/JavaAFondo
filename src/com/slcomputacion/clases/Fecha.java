@@ -39,6 +39,6 @@ public class Fecha {
     @Override
     public String toString() {
         return "Fecha: "+dia +"/"+mes+"/"+anio;
-        //return "Fecha: "+dia +"/"+mes+"/"+anio +"(dd/mm/aaaa)";
+
     }
 }
