@@ -46,6 +46,11 @@ public class Fecha {
     }
 
     //Metodos
+    //retorna la fecha expresada en dias
+    private int fechaToDias(){
+        return anio*360+mes*30+dia;
+    }
+
 
 
 
